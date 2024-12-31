@@ -2,9 +2,7 @@
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning with help from docs.github.com
 - 💞️ I’m looking to collaborate on with all of you
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Ankita-singh16/Ankita-singh16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
